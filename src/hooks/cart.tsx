@@ -7,7 +7,7 @@ import React, {
 } from 'react';
 
 import AsyncStorage from '@react-native-community/async-storage';
-import { Product } from 'src/pages/Cart/styles';
+
 
 interface Product {
   id: string;
